@@ -4,7 +4,6 @@
 //backend Js is a little different from front end JS
 
 import Head from "next/head"
-import Image from "next/image"
 import styles from "../styles/Home.module.css"
 //import ManualHeader from "../components/ManualHeader"//boton de conectar hecho a mano
 import Header from "../components/Header"
