@@ -1,4 +1,12 @@
+# nextjs-smartcontract-lottery
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+On this repo you will find a very simple front end for the lottery smart contrat on the repo: https://github.com/AdrianCobo/hardhat-lottery
+
+This repo follows the lesson 10 developed by Patrick Collins and FreeCodeCamp.
+
+Course: https://www.youtube.com/watch?v=gyMwXuJrbJQ
 
 ## Getting Started
 
